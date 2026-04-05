@@ -17,30 +17,19 @@ The system also incorporates fairness and bias evaluation to ensure reliable and
 
 ## 🔄 Project Workflow
 ![Project Workflow](workflow.png)
-
-The system follows a structured pipeline:
-1. Research and problem formulation  
-2. Data preparation and baseline modeling  
-3. Noise injection and failure analysis  
-4. Bias and fairness evaluation  
-5. Mitigation and calibration  
-6. Frontend and system integration  
+This diagram represents the overall pipeline of the system, from data preparation to failure analysis, bias evaluation, and mitigation strategies.
 
 ---
 
-## 📊 System Diagrams
-
-### 🧩 Use Case Diagram
+## 🧩 Use Case Diagram
 ![Use Case](usecase.png)
+Shows the interaction between users and the system, including model analysis, evaluation, and result visualization.
 
-### 🗂️ ER Diagram
+---
+
+## 🗂️ ER Diagram
 ![ER Diagram](er.png)
-
-### 🔁 State Diagram
-![State Diagram](state.png)
-
-### 🔄 DFD Level 0
-![DFD](dfd.png)
+Defines the data structure and relationships between entities such as models, datasets, and evaluation metrics.
 
 ---
 
